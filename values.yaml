@@ -4,7 +4,7 @@
 
 image:
   repository: syncthing/syncthing
-  tag: v0.14.51
+  tag: 1.7.0
   pullPolicy: IfNotPresent
 
 # extraArgs:
